@@ -1,9 +1,9 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/0957630b8248e79400247.jpg"></a></p>
+<p align="center"><a href="https://t.me/Mahi_Nabi"><img src="https://te.legra.ph/file/fdba1d77ddc97568dd272.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ㅤㅤㅤ 🖤ᴀʟᴛʀᴏɴ🖤
-ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/Altron_X)
+## ㅤㅤ💔CᴜTᴇ💖KɪNɢ💔
+ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/Mahi_Nabi)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━
@@ -13,16 +13,16 @@
 
  ━━━━━━━━━━━━━━━━━━━━━━
 
-### ㅤㅤㅤ❤ CREDITS ❤
+### ㅤㅤㅤ💞ᴄᴜᴛᴇ 💔ᴋɪɴɢ 💞
 
 
-- ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/Shailendra34)ㅤㅤㅤㅤㅤㅤㅤㅤ
+- ᴍᴇ ᴏɴ [ɢɪᴛʜᴜʙ💞](https://github.com/Mahinabi)ㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤㅤ
-- ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://t.me/Shailendra34)
+- ᴍᴇ ᴏɴ [ᴛᴇʟᴇɢʀᴀᴍ💔](https://t.me/Mahinabi)
 
-- [PʏᴛʜᴏɴX](https://t.me/Dark_X_Python) ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ 💫
+- [PʏᴛʜᴏɴX](https://t.me/Mahinabi) ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ 💫
 
-- [PʏᴛʜᴏɴX](https://github.com/Err0rMK) ᴏɴ ɢɪᴛʜᴜʙ 💖
+- [PʏᴛʜᴏɴX](https://github.com/Mahinabi) ᴏɴ ɢɪᴛʜᴜʙ 💖
 
 - [PʏTɢCᴀʟʟs](https://github.com/pytgcalls/pytgcalls)
 
