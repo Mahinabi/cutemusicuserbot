@@ -12,8 +12,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**
 
 
- ★< CᴜTᴇ KɪNɢ CᴀMMᴀNᴅS>★
-
+★<♥ᴄᴜᴛᴇ♥ᴋɪɴɢ♥ᴄᴀᴍᴍᴀɴᴅ♥>★
 ┏━━━━━━━━━━━━━━━━━┓ 
 ┣★P - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴇɴᴊᴏʏ ᴍᴜsɪᴄ
 ┣★E - ᴛᴏ ᴇɴᴅ sᴏɴɢ
