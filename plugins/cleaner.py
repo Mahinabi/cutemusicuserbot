@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from modules.helpers.command import commandpro
 
 
-@Client.on_message(commandpro(["/cl", "!cl", "Cl", "/cleanup", "Cleanup", "!cleanup", "Fresh"]))
+@Client.on_message(commandpro(["/cl", "!cl", "Cl", "/cleanup", "Cleanup", "!cleanup"]))
 async def cleanup(_, message: Message):
     pth = os.path.realpath(".")
     ls_dir = os.listdir(pth)
