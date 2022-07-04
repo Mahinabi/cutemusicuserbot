@@ -8,9 +8,11 @@ from config import SUDO_USERS
 @Client.on_message(commandpro(["!help", "/help", ".help"]) & filters.user(SUDO_USERS))
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/0957630b8248e79400247.jpg",
+        photo=f"https://te.legra.ph/file/fdba1d77ddc97568dd272.jpg",
         caption=f"""**
-★<𝐀𝐋𝐓𝐑𝐎𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒>★
+
+
+ ★< CᴜTᴇ KɪNɢ CᴀMMᴀNᴅS>★
 
 ┏━━━━━━━━━━━━━━━━━┓ 
 ┣★P - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴇɴᴊᴏʏ ᴍᴜsɪᴄ
