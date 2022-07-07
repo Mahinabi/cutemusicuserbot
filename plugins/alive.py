@@ -37,7 +37,7 @@ async def alive(Client, e: Message):
         Alive_msg += f"► Vᴇʀsɪᴏɴ : `1.0` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `9.8.13` \n"
         Alive_msg += f"► Aᴄᴛɪᴠᴇ IDs : `{ids}` \n"
-        Alive_msg += f"► Uᴘᴅᴀᴛᴇs : [Aʟᴛʀᴏɴ X](t.me/Mahi_Nabi)\n"
+        Alive_msg += f"► Uᴘᴅᴀᴛᴇs : [Cᴜᴛᴇ  ᴋɪɴɢ](t.me/Mahi_Nabi)\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply_photo(
         photo=ALIVE_PIC,
@@ -49,6 +49,6 @@ async def alive(Client, e: Message):
         Alive_msg += f"► Vᴇʀsɪᴏɴ : `1.0` \n"
         Alive_msg += f"► Pʏʀᴏ ᴠᴇʀsɪᴏɴ : `9.8.13` \n"
         Alive_msg += f"► Aᴄᴛɪᴠᴇ IDs : `{ids}` \n"
-        Alive_msg += f"► Uᴘᴅᴀᴛᴇs : [Aʟᴛʀᴏɴ X](t.me/Mahi_Nabi)\n"
+        Alive_msg += f"► Uᴘᴅᴀᴛᴇs : [Cᴜᴛᴇ  ᴋɪɴɢ](t.me/Mahi_Nabi)\n"
         Alive_msg += f"◈ ━━━━━━ ◆ ━━━━━━ ◈ \n\n"
         await e.reply(Alive_msg) 
