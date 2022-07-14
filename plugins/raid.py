@@ -19,7 +19,7 @@ async def dmraid(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = e.chat.id
           if int(id) in VERIFIED_USERS:
-                text = f"Chal Chal baap Ko mat sikha"
+                text = f"Chal Chal baap Ko bhej tera bas ki baat nahi "
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
                 text = f"Abe Lawde that guy part of my devs."
